@@ -1,0 +1,18 @@
+{
+  "historial_conversiones": [
+    {
+      "moneda_origen": "PEN",
+      "moneda_destino": "BOB",
+      "cantidad": 23.0,
+      "resultado": 43.656299999999995,
+      "fecha": "2025-05-28T22:22:58.418051200"
+    },
+    {
+      "moneda_origen": "PEN",
+      "moneda_destino": "COP",
+      "cantidad": 6.0,
+      "resultado": 6758.742,
+      "fecha": "2025-05-28T22:23:02.407701200"
+    }
+  ]
+}
