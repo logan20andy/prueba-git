@@ -21,7 +21,5 @@ public class ConsultaPelicula {
         } catch (Exception e) {
             throw new RuntimeException("No encontrado la Pelicula");
         }
-
-        return new Gson().fromJson(response.body(), Pelicula.class);
     }
 }
