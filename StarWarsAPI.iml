@@ -7,10 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../ALURA/JAVA 2025/Arrays/screen-match-3-Aula0/gson-2.13.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/lib/gson-2.13.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
